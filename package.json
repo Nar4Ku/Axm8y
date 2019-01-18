@@ -1,0 +1,17 @@
+{
+  "name": "web-stack",
+  "version": "1.0.0",
+  "description": "aprendeno web moderno",
+  "main": "index.js",
+  "dependencies": {
+    "global": "^4.3.2",
+    "httpserver": "^0.3.0",
+    "npm": "^6.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
